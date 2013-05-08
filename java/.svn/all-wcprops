@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/tiny/!svn/ver/4/java
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/tiny/!svn/ver/4/java/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/tiny/!svn/ver/4/java/.project
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/tiny/!svn/ver/4/java/.fatjar
+END
+lp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/tiny/!svn/ver/4/java/lp.jar
+END
+exemplo1.tiny
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/tiny/!svn/ver/4/java/exemplo1.tiny
+END
+tiny-java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/tiny/!svn/ver/4/java/tiny-java.jar
+END

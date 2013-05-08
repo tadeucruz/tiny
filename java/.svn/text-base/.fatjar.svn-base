@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Jan 17 04:51:33 BRST 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=tiny-java.jar
+manifest.mergeall=true
+manifest.mainclass=br.pucminas.inf.principal.tiny
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

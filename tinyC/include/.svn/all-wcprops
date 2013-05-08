@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/tiny/!svn/ver/6/tinyC/include
+END
+Memoria.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/tiny/!svn/ver/6/tinyC/include/Memoria.h
+END
+ComandoWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tiny/!svn/ver/6/tinyC/include/ComandoWrite.h
+END
+ComandoIf.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/tiny/!svn/ver/6/tinyC/include/ComandoIf.h
+END
+ComandoAtrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tiny/!svn/ver/6/tinyC/include/ComandoAtrib.h
+END
+ComandowriteVar.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/tiny/!svn/ver/6/tinyC/include/ComandowriteVar.h
+END
+Expressao.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/tiny/!svn/ver/6/tinyC/include/Expressao.h
+END
+ComandoWhile.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tiny/!svn/ver/6/tinyC/include/ComandoWhile.h
+END
+ExpConstante.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tiny/!svn/ver/6/tinyC/include/ExpConstante.h
+END
+Comandoread.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/tiny/!svn/ver/6/tinyC/include/Comandoread.h
+END
+Comando.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/tiny/!svn/ver/6/tinyC/include/Comando.h
+END
+Interpretador.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/tiny/!svn/ver/6/tinyC/include/Interpretador.h
+END
+ExpBinaria.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/tiny/!svn/ver/6/tinyC/include/ExpBinaria.h
+END
+ArquivoFonte.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tiny/!svn/ver/6/tinyC/include/ArquivoFonte.h
+END
+ComandoWriteln.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/tiny/!svn/ver/6/tinyC/include/ComandoWriteln.h
+END
+ExpVariavel.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/tiny/!svn/ver/6/tinyC/include/ExpVariavel.h
+END
+ComandoFor.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/tiny/!svn/ver/6/tinyC/include/ComandoFor.h
+END
+ComandoEndp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/tiny/!svn/ver/6/tinyC/include/ComandoEndp.h
+END
